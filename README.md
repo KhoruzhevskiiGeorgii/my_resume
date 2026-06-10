@@ -2,7 +2,7 @@
 
 **ML / AI Research Intern | Mathematics & Python | Data Automation**
 
-Mathematics-background candidate based in Belgrade, seeking a **20h/week ML / AI / research-oriented internship or junior role**. Completed 5 semesters of Fundamental Mathematics at Saint Petersburg State University; academic recognition in Serbia is in progress, with expected enrollment at the University of Belgrade Faculty of Mathematics in September 2026.
+Mathematics-background candidate based in Belgrade, seeking an **ML / AI / research-oriented internship or junior role**. Completed 5 semesters of Fundamental Mathematics at Saint Petersburg State University; academic recognition in Serbia is in progress, with expected enrollment at the University of Belgrade Faculty of Mathematics in September 2026.
 
 Practical background in Python, SQL, data automation, analytical workflows, parsers, bots, scheduled data pipelines, and AI-assisted tools. Interested in search/retrieval, LLM evaluation, AI-assisted workflows, research engineering, and experimental data/ML work.
 
@@ -15,12 +15,11 @@ Practical background in Python, SQL, data automation, analytical workflows, pars
 
 ## Current focus
 
-- 20h/week internship or junior role
-- ML / AI research engineering
+- Internship or junior role in ML / AI / research-oriented engineering
 - LLM evaluation and AI-assisted workflows
 - Search, retrieval, and data pipelines for experiments
 - Python automation and research tooling
-- Legal work arrangement with Serbian single permit support
+- Serbian work authorization support before employment start
 
 ## Core skills
 
@@ -46,7 +45,7 @@ Product and marketing metrics, cohort analysis, A/B testing, CTR, DAU, retention
 
 ## Experience
 
-### DataGo! — Analyst  
+### DataGo! - Analyst  
 **Full-time | 2023 - 2024**
 
 Client projects: Citilink, Rigla, Bud Zdorov, RBeauty.
@@ -57,7 +56,7 @@ Client projects: Citilink, Rigla, Bud Zdorov, RBeauty.
 - Translated client requirements into analytical tasks, metrics logic, and maintainable data outputs.
 - Worked with product, marketing, marketplace, and advertising metrics while reducing manual routine in regular analytics.
 
-### graph.ua / GGSel — Product Analyst  
+### graph.ua / GGSel - Product Analyst  
 **Part-time | 2023**
 
 Computer games marketplace project.
@@ -67,7 +66,7 @@ Computer games marketplace project.
 - Improved reliability and performance of analytical outputs.
 - Identified technical issues affecting business metrics.
 
-### ScrumSchool.org — Teacher  
+### ScrumSchool.org - Teacher  
 **Full-time | 2022 - 2023**
 
 Mathematics and technical education.
@@ -108,8 +107,8 @@ Completed 5 semesters. Academic recognition procedure in Serbia is in progress.
 
 ## Certificates and languages
 
-- Yandex Practicum — Data Analyst professional development programme, 2023
+- Yandex Practicum - Data Analyst professional development programme, 2023
 - Yandex Metrica Specialist Certificate
-- Russian — native
-- English — professional working proficiency
-- Serbian — elementary
+- Russian - native
+- English - professional working proficiency
+- Serbian - elementary
