@@ -1,98 +1,115 @@
 # Georgii Khoruzhevskii
 
-## Contact Information
+**ML / AI Research Intern | Mathematics & Python | Data Automation**
 
-- **Email**: khoruzhevskiigeorgii@gmail.com — preferred method of contact
-- **Telegram**: @ex_georgy
-- **GitHub**: KhoruzhevskiiGeorgii
-- **LinkedIn**: https://www.linkedin.com/in/georgii-khoruzhevskii-b15257279/
+Mathematics-background candidate based in Belgrade, seeking a **20h/week ML / AI / research-oriented internship or junior role**. Completed 5 semesters of Fundamental Mathematics at Saint Petersburg State University; academic recognition in Serbia is in progress, with expected enrollment at the University of Belgrade Faculty of Mathematics in September 2026.
 
-## Personal Information
+Practical background in Python, SQL, data automation, analytical workflows, parsers, bots, scheduled data pipelines, and AI-assisted tools. Interested in search/retrieval, LLM evaluation, AI-assisted workflows, research engineering, and experimental data/ML work.
 
-- **Residence**: Serbia
-- **Citizenship**: Russia
-- **Willing to relocate**, **willing to travel**
+## Contact
 
-## Position
+- **Email:** khoruzhevskiigeorgii@gmail.com
+- **LinkedIn:** https://linkedin.com/in/georgii-khoruzhevskii
+- **GitHub:** https://github.com/KhoruzhevskiiGeorgii
+- **Location:** Belgrade, Serbia
 
-**Data Analyst / BI Analyst / Product Analyst**
+## Current focus
 
-I work with analytics, reporting, dashboards, data pipelines, and automation. I have a strong mathematical background and practical experience with Python, SQL, BI tools, and client-facing analytical tasks.
+- 20h/week internship or junior role
+- ML / AI research engineering
+- LLM evaluation and AI-assisted workflows
+- Search, retrieval, and data pipelines for experiments
+- Python automation and research tooling
+- Legal work arrangement with Serbian single permit support
 
-## Work Experience
+## Core skills
 
-### DataGo!
+### Python / automation
 
-_October 2023 — Present_
+Python, pandas, requests, BeautifulSoup, Playwright, GitHub Actions, Telegram Bot API, Google Apps Script, OpenAI API.
 
-**Analyst**
+### Data / analytics engineering
 
-Projects: Citilink, Rigla, Bud Zdorov, RBeauty.
+SQL, ClickHouse, BigQuery, PostgreSQL, dbt, data quality checks, scheduled workflows, Git.
 
-Responsibilities:
+### AI / research-oriented work
 
-- building and maintaining analytical reports and dashboards;
-- working with product, marketing, and business metrics;
-- writing SQL queries and Python scripts for data processing and automation;
-- supporting data pipelines and data quality checks;
-- communicating with clients and clarifying analytical requirements.
+LLM-assisted workflows, prompt-based automation, evaluation logic, data pipelines for experiments, parsers, bots, mathematical and technical content generation.
 
-Achievements and results:
+### Mathematics
 
-- developed and deployed a Telegram bot for automatic data flow reconciliation;
-- built an FBA report that improved advertising campaign efficiency;
-- automated recurring analytical tasks and reduced manual reporting work.
+Probability, statistics, linear algebra, mathematical analysis, rigorous problem solving.
 
-### GPAPH
+### Reporting / analytics background
 
-_March 2022 — October 2023_
+Product and marketing metrics, cohort analysis, A/B testing, CTR, DAU, retention, LTV, CAC, Power BI, Looker Studio, Tableau, Google Sheets, Excel.
 
-**Analyst**
+## Experience
 
-Project: GGSel, computer games store.
+### DataGo! — Analyst  
+**Full-time | 2023 - 2024**
 
-Responsibilities:
+Client projects: Citilink, Rigla, Bud Zdorov, RBeauty.
 
-- database maintenance and optimization;
-- dashboard creation and analytical reporting;
-- A/B test analysis;
-- client communication and requirements gathering.
+- Built SQL/Python analytical workflows for client projects using ClickHouse, BigQuery, dbt, Power BI, and Google Sheets.
+- Supported data pipelines, recurring data checks, and automation around reporting and data quality.
+- Developed automation tools, including a Telegram bot for automatic data flow reconciliation.
+- Translated client requirements into analytical tasks, metrics logic, and maintainable data outputs.
+- Worked with product, marketing, marketplace, and advertising metrics while reducing manual routine in regular analytics.
 
-Achievements and results:
+### graph.ua / GGSel — Product Analyst  
+**Part-time | 2023**
 
-- optimized database queries and improved reporting performance;
-- identified a technical issue on the website that affected business metrics.
+Computer games marketplace project.
+
+- Analyzed product metrics, user behavior, and A/B test results.
+- Worked with SQL queries and database-backed reporting.
+- Improved reliability and performance of analytical outputs.
+- Identified technical issues affecting business metrics.
+
+### ScrumSchool.org — Teacher  
+**Full-time | 2022 - 2023**
+
+Mathematics and technical education.
+
+- Taught mathematical and technical topics.
+- Prepared educational materials.
+- Explained complex concepts clearly and in a structured way.
+
+## Selected projects
+
+### [cryptorus](https://github.com/KhoruzhevskiiGeorgii/cryptorus)
+
+Python, BeautifulSoup, Telegram Bot API, OpenAI API.
+
+Automation pipeline that parses crypto/news sources, detects fresh posts, generates concise summaries, prevents duplicate publishing, and posts Markdown-formatted updates to Telegram.
+
+### [math_automaton](https://github.com/KhoruzhevskiiGeorgii/math_automaton)
+
+Python, Manim, YAML, TeX/LaTeX, gTTS.
+
+Structured-content automation project for generating mathematical short videos from YAML scenarios with synchronized formulas, narration, and reusable rendering logic.
+
+### [x-followers-collector](https://github.com/KhoruzhevskiiGeorgii/x-followers-collector)
+
+JavaScript, Playwright, GitHub Actions, Google Apps Script.
+
+Scheduled free collector that extracts visible follower counts from a public X profile and writes daily totals and net growth into Google Sheets.
 
 ## Education
 
-### Saint Petersburg State University
+### Saint Petersburg State University  
+**Specialist programme coursework, Fundamental Mathematics | 2019 - 2022**
 
-_Incomplete higher education, 2019–2022_
+Completed 5 semesters. Academic recognition procedure in Serbia is in progress.
 
-Faculty of Mathematics and Mechanics, Fundamental Mathematics.
+### Innopolis University  
+**Undergraduate coursework, Computer Programming / Applied Mathematics and Informatics | 2017 - 2019**
 
-### Innopolis University
+## Certificates and languages
 
-_Incomplete higher education, 2017–2019_
-
-Applied Mathematics and Informatics.
-
-## Professional Development
-
-### Yandex Practicum
-
-_Data Analyst, 2023_
-
-## Certificates
-
-- Yandex Metrica Specialist Certificate, 2024
-
-## Key Skills
-
-- **Programming and analysis**: Python, pandas, NumPy, SciPy, matplotlib, Plotly
-- **Databases and analytics engineering**: SQL, PostgreSQL, ClickHouse, BigQuery, dbt
-- **BI and visualization**: Power BI, Tableau, Looker Studio, Yandex DataLens
-- **Product and marketing analytics**: cohort analysis, A/B testing, CTR, DAU, LTV, CAC, retention
-- **Tools**: Git, Google Sheets, MS Excel, Jupyter Notebook
-- **Mathematics**: mathematical analysis, probability, statistics, linear algebra
-- **Languages**: Russian — Native, English — B2
+- Yandex Practicum — Data Analyst professional development programme, 2023
+- Yandex Metrica Specialist Certificate
+- Russian — native
+- English — professional working proficiency
+- Serbian — elementary
